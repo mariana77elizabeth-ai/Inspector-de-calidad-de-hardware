@@ -1,3 +1,4 @@
+import streamlit as st
 import customtkinter as ctk
 import cv2
 import numpy as np
