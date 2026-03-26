@@ -1,0 +1,10 @@
+
+Abrir programa CMD
+
+cd C:\DEV\Proyecto
+
+
+tf_env\Scripts\activate
+
+
+python proyectoiamain.py
